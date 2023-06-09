@@ -1,6 +1,6 @@
 # Welcome to my online presence!
 
-### Hi! I'm Jay - **an aspiring computer science researcher** meddling somewhere at the intersection of software engineering and business intelligence.
+### I'm Jay - **an aspiring computer science researcher** meddling somewhere at the intersection of software engineering and business intelligence.
 
 💬 Ask me about anything inner source, software engineering and BI!
 

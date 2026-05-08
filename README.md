@@ -12,4 +12,3 @@
 - 📑 Templates and decks for Anki flashcards 
 - 🇫🇷🇪🇸🇮🇹 My own resources surrounding language learning with Anki
 - 🗒️ Certificates and notes on courses I'm taking
-- 
